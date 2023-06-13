@@ -1,0 +1,6 @@
+На следующий раз:
+- Закинуть первую версию на гит.
+
+Идея взята отсюда: https://www.upgrad.com/blog/react-project-ideas-topics-beginners/
+
++ Некст идея, сделать веб-тетрис.
